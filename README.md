@@ -1,5 +1,31 @@
-# Vue 3 + Vite
+# Ecom Dashboard
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A Vue.js project for managing e-commerce dashboard.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Project Setup
+
+```bash
+yarn install
+```
+
+### Compiles and hot-reloads for development
+
+```bash
+yarn serve
+```
+
+### Compiles and minifies for production
+
+```bash
+yarn build
+```
+
+### Lints and fixes files
+
+```bash
+yarn lint
+```
+
+## Customize configuration
+
+See [Vue CLI documentation](https://cli.vuejs.org/).
